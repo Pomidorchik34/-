@@ -41,6 +41,7 @@ console.log(trm);
 let spt = messege.split(" ");
 console.log(spt);
 
+//HOMEWORK
 let ism = prompt("Ismingizni kiriting:");
 let birinchiHarf = ism.charAt().toUpperCase();
 let davomi = ism.slice(1).toLowerCase();
